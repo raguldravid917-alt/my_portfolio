@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence, useScroll, useSpring, useTransform, useMotionValue } from 'framer-motion';
-import Lenis from '@studio-freight/lenis'; 
+import Lenis from 'lenis'; 
 
 // --- IMPORT IMAGES DIRECTLY (NEW) ---
 // இந்த லைன்ல Error வந்தால், ஃபைல் பெயர் தப்பா இருக்குனு அர்த்தம்.
